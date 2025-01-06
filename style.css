@@ -1,4 +1,3 @@
-/* General styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -8,7 +7,6 @@ body {
     color: #fff;
 }
 
-/* Form container */
 .form-container {
     max-width: 400px;
     margin: 100px auto;
@@ -18,7 +16,7 @@ body {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
 }
 
-/* Form styles */
+
 form {
     display: flex;
     flex-direction: column;
@@ -30,13 +28,12 @@ h2 {
     color: #fff;
 }
 
-/* Label styles */
 label {
     margin-bottom: 5px;
     font-weight: bold;
 }
 
-/* Input styles */
+
 input, textarea {
     margin-bottom: 15px;
     padding: 10px;
@@ -50,7 +47,7 @@ textarea {
     resize: none;
 }
 
-/* Button styles */
+
 button {
     padding: 10px;
     background-color: #28a745;
